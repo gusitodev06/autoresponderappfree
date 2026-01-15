@@ -1,3 +1,16 @@
+
+
+<p align="center">
+
+  <img src="screenshots/main_screen.png" width="300" title="Panel Principal">
+
+  <img src="SCREENSHOTS/Screenshot_20260115-004346.jpg" width="300" title="Menú Lateral"></p>
+
+
+
+
+
+
 # 🤖 AutDark | Motor de Automatización de Mensajería
 
 **AutDark** es un avanzado motor de respuestas automáticas para Android que fusiona la potencia de la arquitectura JVM con una estética *Cyberpunk Deep Dark*. Diseñado para usuarios que exigen automatización sin fricciones y una interfaz de alto impacto visual.
