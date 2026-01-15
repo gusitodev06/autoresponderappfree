@@ -1,15 +1,13 @@
+## 📸 Galería Táctica (Interfaz de Usuario)
 
+| <p align="center">MENU LATERAL</p> | <p align="center">PANEL PRINCIPAL</p> | <p align="center">SISTEMA DE ENCENDIDO</p> |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/gusitodev06/autoresponderappfree/main/SCREENSHOTS/Screenshot_20260115-004346.jpg" width="250" style="border: 2px solid #03DAC6; border-radius: 15px;"> | <img src="https://raw.githubusercontent.com/gusitodev06/autoresponderappfree/main/SCREENSHOTS/Screenshot_20260115-004349.jpg" width="250" style="border: 2px solid #03DAC6; border-radius: 15px;"> | <img src="https://raw.githubusercontent.com/gusitodev06/autoresponderappfree/main/SCREENSHOTS/Screenshot_20260115-004351.jpg" width="250" style="border: 2px solid #03DAC6; border-radius: 15px;"> |
 
 <p align="center">
-
-  <img src="screenshots/main_screen.png" width="300" title="Panel Principal">
-
-  <img src="SCREENSHOTS/Screenshot_20260115-004346.jpg" width="300" title="Menú Lateral"></p>
-
-
-
-
-
+  <b>GESTION DE REGLAS</b><br>
+  <img src="https://raw.githubusercontent.com/gusitodev06/autoresponderappfree/main/SCREENSHOTS/Screenshot_20260115-004354.jpg" width="250" style="border: 2px solid #03DAC6; border-radius: 15px;">
+</p>
 
 # 🤖 AutDark | Motor de Automatización de Mensajería
 
