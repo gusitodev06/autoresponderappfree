@@ -46,7 +46,7 @@ Como desarrollador enfocado en la eficiencia, **AutDark** ha sido construido baj
 
 ## 🚀 Cómo Desplegar AutDark
 
-1. **Descarga:** Obtén la versión más reciente desde la sección de [Releases](https://github.com/gusitodev06/AutDark/releases).
+1. **Descarga:** Obtén la versión más reciente desde la sección de [Releases](https://github.com/gusitodev06/autoresponderappfree/releases).
 2. **Diagnóstico:** Habilita el **Acceso a Notificaciones** desde el panel de Diagnóstico en la app.
 3. **Persistencia:** Activa la opción **"Evitar modo reposo"** desde el menú lateral para garantizar que el motor nunca se detenga.
 4. **Despliegue:** Crea tu primera regla táctica desde el Dashboard y observa cómo AutDark toma el control.
